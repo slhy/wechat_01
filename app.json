@@ -6,6 +6,8 @@
       "pages/friend/friend"
   ],
   "tabBar": {
+    "color":"#a9b7b7",
+    "selectedColor":"#11cd6e",
     "borderStyle":"white",
     "list": [{
       "pagePath": "pages/index/index",
